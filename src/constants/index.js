@@ -62,15 +62,15 @@ export const navLinks = [
       desc: 'Cryptobucks is a cryptocurrency information platform designed to keep users informed about the latest trends and details in the crypto world. Using real-time data from cryptocurrency APIs, it provides up-to-date information on various cryptocurrencies, including prices, market capitalization, and other key metrics. Built with a responsive and user-friendly design.',
       subdesc:
         'Built as a unique Software-as-a-Service app with React,Tailwind CSS,Javascript,Coingecko API.Cryptobucks is an ideal resource for anyone looking to stay updated in the fast-paced world of digital currency',
-      href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      href: 'https://crypto-wv24.vercel.app/',
       texture: '/textures/project/cryptoo.mp4',
-      logo: '/assets/project-logo1.png',
+      logo: '/assets/crypto.png',
       logoStyle: {
-        backgroundColor: '#2A1816',
-        border: '0.2px solid #36201D',
-        boxShadow: '0px 0px 60px 0px #AA3C304D',
+        backgroundColor: '#13202F',
+        border: '0.2px solid #17293E',
+        boxShadow: '0px 0px 60px 0px #2F6DB54D',
       },
-      spotlight: '/assets/spotlight1.png',
+      spotlight: '/assets/spotlight2.png',
       tags: [
         {
           id: 1,
@@ -95,15 +95,15 @@ export const navLinks = [
       desc: "Redesigned the Porsche website using HTML, CSS, and JavaScript with a focus on smooth animations and interactive elements. This project emphasizes a modern, user-friendly layout that aligns with the luxury brand's aesthetic. Enhanced navigation, visual hierarchy, and responsive design ensure a seamless experience across devices, while animations add dynamic interactions that enrich the user experience. This project highlights my skills in crafting visually engaging and interactive web interfaces.",
       subdesc:
         '',
-      href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      href: 'https://errorcreators-reimagine-round1.vercel.app/',
       texture: '/textures/project/porsche.mp4',
-      logo: '/assets/project-logo2.png',
+      logo: '/assets/Porsche.png',
       logoStyle: {
-        backgroundColor: '#13202F',
-        border: '0.2px solid #17293E',
-        boxShadow: '0px 0px 60px 0px #2F6DB54D',
+        backgroundColor: '#2A1816',
+        border: '0.2px solid #36201D',
+        boxShadow: '0px 0px 60px 0px #AA3C304D',
       },
-      spotlight: '/assets/spotlight2.png',
+      spotlight: '/assets/spotlight1.png',
       tags: [
         {
           id: 1,
@@ -127,9 +127,9 @@ export const navLinks = [
       desc: "Designed and developed a pTron website using HTML, CSS, and JavaScript, focusing on a modern, user-friendly interface that showcases the brand's tech-forward image. The site includes engaging animations and interactive elements to enhance the visual appeal and user experience. Key features include a responsive layout and smooth transitions, creating a seamless browsing experience across devices. This project highlights my skills in front-end development and attention to design aesthetics.",
       subdesc:
         'A sleek, interactive redesign for pTron’s website, integrating animations and a responsive layout to enhance the user experience. Built with HTML, CSS, and JavaScript to deliver a visually dynamic, device-friendly interface that aligns with the brand’s modern image.',
-      href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      href: 'https://errorcreators-reimagine-round2.vercel.app/',
       texture: '/textures/project/ptron.mp4',
-      logo: '/assets/project-logo3.png',
+      logo: '/assets/pTron.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:

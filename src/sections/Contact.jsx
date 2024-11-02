@@ -16,15 +16,15 @@ const Contact = () => {
         e.preventDefault()
         setLoading(true)
         try {
-            emailjs.send('service_24aetaj','template_rbghwoi','ZFzUs3sDhkipAyKft',
+             await emailjs.send('service_24aetaj','template_uhdlt3g',
                 {
                     from_name: form.name,
                     to_name:'Sahil',
                     from_email: form.email,
                     to_email: 'sahil.628401@gmail.com',
                     message: form.message
-                }
-                
+                },
+                'ZFzUs3sDhkipAyKft'
             )
             setLoading(false)
             alert('Your message has been sent!')
@@ -37,7 +37,7 @@ const Contact = () => {
     }
     //service_24aetaj
   return (
-    <span className='c-space my-20'>
+    <span className='c-space my-20' id='contact'>
         <div className='relative min-h-screen flex flex-col items-center justify-center'>
             <img src="/assets/terminal.png" className='absolute inset-0 min-h-screen' alt="" />
             <div className='contact-container'>
